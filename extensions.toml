@@ -4068,3 +4068,7 @@ version = "0.0.1"
 [zwirn]
 submodule = "extensions/zwirn"
 version = "0.2.0"
+
+[opaline-theme]
+submodule = "extensions/opaline-theme"
+version = "0.1.0"
