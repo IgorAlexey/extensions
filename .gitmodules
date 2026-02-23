@@ -2538,6 +2538,10 @@
 	path = extensions/oolong
 	url = https://github.com/jmg-duarte/oolong-zed.git
 
+[submodule "extensions/opaline-theme"]
+	path = extensions/opaline-theme
+	url = https://github.com/IgorAlexey/opaline-zed
+
 [submodule "extensions/opencode"]
 	path = extensions/opencode
 	url = https://github.com/sst/opencode.git
@@ -4021,6 +4025,3 @@
 [submodule "extensions/zwirn"]
 	path = extensions/zwirn
 	url = https://codeberg.org/polymorphicengine/zwirn-zed-extension.git
-[submodule "extensions/opaline-theme"]
-	path = extensions/opaline-theme
-	url = https://github.com/IgorAlexey/opaline-zed
